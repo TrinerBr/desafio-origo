@@ -57,5 +57,5 @@ Python
 # O time
 Carine Zanotto<br>
 Juliana Luciana<br>
-Kelly
+Kelly<br>
 Luiz Vaz<br>
