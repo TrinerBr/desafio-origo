@@ -10,10 +10,10 @@ https://sdp.saidopapel.com.br/masterhack2022-energy-hub
 
 # Identidade visual - Logotipo
 
-![bv-renova-600x600](https://user-images.githubusercontent.com/110358231/182050678-dc0b5939-80fe-4b97-8879-cec9621aa8ec.png)
+![amigo-do-cliente-bv](https://user-images.githubusercontent.com/90558347/198909869-4fe54e99-0b0f-429d-8898-d431a8512063.png)
 
 
-# BV Renova
+# Amigo do Cliente
 BV Renova é uma ferramenta de análise de perfil de cliente que utiliza inteligência para gerar Scripts Ideais de Abordagens (SIA) para otimizar o trabalho dos colaboradores do BV e mapear toda a jornada do cliente.
 
 Os clientes são categorizados e recebem um atendimento único e personalizado, e o BV passa a entender ainda mais as suas necessidades para buscar sempre o melhor relacionamento.
@@ -46,17 +46,6 @@ O nível de satisfação define após análise, uma nota entre 1 e 5.
 
 Isto torna o atendimento exclusivo e objetivo.
 
-![bv-renova-01](https://user-images.githubusercontent.com/110358231/182050267-95624e1a-a17e-4290-a8af-b0cd1ec0188e.png)
-
-![bv-renova-02](https://user-images.githubusercontent.com/110358231/182050277-653b2cdb-9639-474c-b993-b764f8795b93.png)
-
-![bv-renova-03](https://user-images.githubusercontent.com/110358231/182050279-7121cceb-6908-4f85-a80d-528047810ea3.png)
-
-![bv-renova-04](https://user-images.githubusercontent.com/110358231/182050300-9ee781bd-66d0-46a4-824a-3817e2934d9e.png)
-
-
-![resultado-bvrenova](https://user-images.githubusercontent.com/110358231/182054256-d798fd32-6929-4cc1-bde0-a48389748acb.png)
-
 
 # A ideia inicial
 Inicialmente pensamos em criar um automatizador de reclamações e sugestões com dados extras oriundos do relato do cliente. Queríamos buscar a jornada inteira para entender como agir antes mesmo do momento de buscar a renovação (D-35 e D-20).
@@ -67,7 +56,6 @@ Javascript<br>
 Python
 
 # O time
-Aurelius Oliveira<br>
-Keila Garcia Lopes<br>
+Carine Zanotto<br>
+Juliana Luciana<br>
 Luiz Vaz<br>
-Marina Lima<br>
