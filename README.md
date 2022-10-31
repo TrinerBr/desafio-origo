@@ -14,41 +14,40 @@ https://sdp.saidopapel.com.br/masterhack2022-energy-hub
 
 
 # Amigo do Cliente
-BV Renova é uma ferramenta de análise de perfil de cliente que utiliza inteligência para gerar Scripts Ideais de Abordagens (SIA) para otimizar o trabalho dos colaboradores do BV e mapear toda a jornada do cliente.
+Queremos revolucionar a jornada do cliente e minimizar em pelo menos 50% a quantidade de clientes que não completam o cadastro.
+Por meio de gamificação, envolvemos o cliente para entender mais sobre a empresa e se sentir acolhido com os benefícios ofertados.
+Com uma jornada mais veloz, entregamos:
+- Redução no tempo na alocação do cliente na fazenda solar.
+- Redução de quebras contratuais
+- Uma empresa cada vez mais próxima do cliente
+- Mais clientes para a carteira
+- Novas possibilidades
+- Educar o consumidor
 
-Os clientes são categorizados e recebem um atendimento único e personalizado, e o BV passa a entender ainda mais as suas necessidades para buscar sempre o melhor relacionamento.
+Na gamificação, o cliente participa de uma rodada de economia, para entender melhor o seu consumo e onde pode economizar.
+A partir dessa imersão, ele pode ser redirecionado para aquisição de um plano, já conhecendo a empresa e quanto economizar.
+Com isto, o tempo de aquisição de um cliente poderá ser reduzido em pelo menos 50%, podendo atrair mais clientes.
+Na aquisição, ele envia a conta de energia, que tem leitura automatizada com visão computacional e/ou inserção da unidade consumidora, para extração automáticas de dados de consumo.
 
-O BV começa a entender claramente como alcançar melhores índices de renovação. Após análise de dados, verificamos que estão bastante baixos.
-O SIA determina um peso e quando não obtém sucesso com a renovação do cliente, reformula o Script automaticamente, aguardando aprovação.
+Ao preenchimento de todas as infomações, o cliente é direcionado para assinar o contrato digital e concluir a aquisição.
 
-Para seguir por este caminho, tentamos responder 3 perguntas.
-1. Quais as alavancas que fazem o cliente recontratar o seguro com o BV?
-2. Qual o melhor momento e maneira para oferecer a renovação do seguro?
-3. Qual a melhor estratégia/informações necessárias para garantir a melhor abordagem do cliente?
+Agora, e já cliente, ele passa a ter uma central do cliente que poderá responder dúvidas e resolver problemas a qualquer momento. Problemas que exigem atendimento humano, são redirecionados em horário comercial.
 
-Um exemplo da ferramenta na prática.
+A cada 3 meses, o cliente recebe uma pesquisa de satisfação para, se quiser, responder e ajudar o negócio a crescer mais.
 
-O CLIENTE A não deseja renovar porque localizou uma proposta melhor em outra empresa. O BV, por meio do seu operador, tentou convencer o cliente em 1 ligação. O tempo total da chamada durou 3 minutos.
-Após esta análise, o BV Renova irá gerar o Script Ideal de Abordagem para o operador. 
-As intruções de abordagem serão mensuradas e estarão disponíveis sempre que ele precisar. 
-1. Saudação inicial
-2. Ofereça um desconto de 3% (aprovado para este cliente)
+O Hub de Indicação é a área ideal para o cliente indicar amigos e conseguir mais descontos e benefícios.
+E ainda permite a empresa criar as suas próprias regras para o seu programa de benefícios, como descontos e emissão de QR Code em parceiros, entre outros.
 
-A geração de Scripts é feita de forma automática e pode ser interligada a central telefônica.
-Assim, quando estiver discando para o cliente, a aplicação mostra em tela, o roteiro a seguir de acordo com o SIA.
+O cliente inicia a jornada no nível 1: bebê da energia, e pode evoluir a medida que interage.
+Quando ele avança de nível, o cliente pode receber missões, que tem uma data limite para cumprimento.
+Se cumprir a missão, o cliente pode ganhar mais Points.
+Exemplo: Indique dois amigos/familiares para fazer parte da Origo e ganhe 10 Points. Cumpra a missão até: 30/11.
 
-O quão saudável está a relação entre o BV e o cliente leva em consideração alguns fatores. 
-
-O nível de satisfação define após análise, uma nota entre 1 e 5. 
-1: Um novo Script pode ser elaborado para tentar reverter.
-2 - 3: Ações adicionais serão necessárias e a atualização do Script.
-4 - 5: Relacionamento saudável é próximo do ideal.
-
-Isto torna o atendimento exclusivo e objetivo.
+Pense como é ótimo economizar energia e também ganhar descontos em parceiros no programa Points.
 
 
 # A ideia inicial
-Inicialmente pensamos em criar um automatizador de reclamações e sugestões com dados extras oriundos do relato do cliente. Queríamos buscar a jornada inteira para entender como agir antes mesmo do momento de buscar a renovação (D-35 e D-20).
+Assistente para automatizar e agilizar a jornada do cliente.
 
 # Tecnologia
 PHP<br>
@@ -58,4 +57,5 @@ Python
 # O time
 Carine Zanotto<br>
 Juliana Luciana<br>
+Kelly
 Luiz Vaz<br>
