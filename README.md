@@ -1,7 +1,12 @@
-# O evento
-O banco BV, um dos maiores bancos do país, está promovendo o Hacka Dados BV 2022, que promete reunir profissionais, pesquisadores e estudantes ligados ao desenvolvimento de ciência de dados, novas tecnologias e soluções de negócios.
+# O desafio
+Digitalização da Fazenda Solar
+Atualmente somos líderes e pioneiros no mercado de geração distribuída de energia. Para escalar nosso negócio, precisamos repensar alguns processos internos de forma que a gente continue crescendo e entregando a melhor experiência possível para o cliente. 
 
-https://hackabv.com.br/
+Desafio: Como ter o melhor fluxo de apresentação, contratação e onboarding do nosso serviço para todos os clientes (PF ou PJ), de forma que tenhamos um cadastro completo do cliente com o menor funil possível?"
+
+Pontos a serem trabalhados: contratação digital, integrações com dados, consultas de informações, validação de documentos, etc
+
+https://sdp.saidopapel.com.br/masterhack2022-energy-hub
 
 # Identidade visual - Logotipo
 
