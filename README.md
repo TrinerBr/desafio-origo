@@ -55,7 +55,6 @@ Javascript<br>
 Python
 
 # O time
-Carine Zanotto<br>
 Juliana Luciana<br>
 Kelly<br>
 Luiz Vaz<br>
